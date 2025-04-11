@@ -1,7 +1,6 @@
 public class hello{
-    public state void main(){
-        int a=10;
-        int b=5    
+    public static void main(){
+       System.out.println("hello"); 
         
     }
 }
