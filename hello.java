@@ -1,5 +1,7 @@
 public class hello{
     public state void main(){
-        System.out.println("Hellow world 123");
+        int a=10;
+        int b=5    
+        
     }
 }
